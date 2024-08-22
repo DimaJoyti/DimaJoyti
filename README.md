@@ -31,7 +31,7 @@
     <a href="https://www.go.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="go" width="40" height="40"/> </a>
   </a>
    </a>
-    <a href="https://www.flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="40" height="40"/> </a>
+    <a href="https://www.flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
   </a>
 </p>
 
