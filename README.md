@@ -9,73 +9,25 @@
 </p>
 
 <p align="center">
-  <i>Where I open-source stuff and break things</i>
+  <i>This is the place where I opensource stuff and break things</i>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DimaJoyti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaJoyti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
-</p>
-
----
-
-<h2 align="center">Languages & Tools</h2>
-
-<p align="center">
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/amazonaws/amazonaws-icon.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-</p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,nodejs,flutter,react,nextjs,angular,tailwind,docker,kubernetes,gcp,aws,cloudflare,redis,postgres,firebase,mongodb,git,linux&perline=7" alt="Tech Stack"/>
+</p>  
 
 ---
 
 <p align="center">
-  <i>Developer from Kyiv 🇺🇦 building modern web applications.</i><br/>
-  <i>Experienced in scalable enterprise solutions. Open to exciting opportunities.</i>
+  <i>I'm a developer from Kiev, and my biggest passion is creating a modern web application. I am looking for an exciting new opportunity. I have experience building, delivering, and maintaining scalable and feature-rich enterprise applications.</i><br/>
 </p>
 
 <p align="center">
