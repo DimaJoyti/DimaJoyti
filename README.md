@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-  <i>I'm a developer from Kiev, and my biggest passion is creating a modern web application. I am looking for an exciting new opportunity. I have experience building, delivering, and maintaining scalable and feature-rich enterprise applications.</i><br/>
+  <i>I'm a developer from Kyiv, and my biggest passion is creating a modern web application. I am looking for an exciting new opportunity. I have experience building, delivering, and maintaining scalable and feature-rich enterprise applications.</i><br/>
 </p>
 
 <p align="center">
